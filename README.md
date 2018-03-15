@@ -1,3 +1,9 @@
+Currently the repository lacks critical code in src directory. A typo caused a repository to be formed inside of a repository (inside src). All advised solutions have failed to fix this. Suspect, but can not yet prove, github bug. Currently investigating further.
+
+
+
+Original Udacity Readme below:
+
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
